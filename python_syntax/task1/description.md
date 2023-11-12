@@ -4,6 +4,8 @@
 * данные должны быть целочисленного типа
 * число должно находиться в диапазоне от 1 до 9
 
+---
+
 Write a program that asks the user to enter an arbitrary number between 1 and 9, and then displays a multiplication table for the number entered.
 
 Add a check on the information entered by the user:
