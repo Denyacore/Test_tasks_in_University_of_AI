@@ -1,4 +1,4 @@
-Загрузите таблицу в переменную `df` по указанному пути ('warning: in the working copy of 'Test_tasks_in_University_of_AI/pandas_training/task1/california_housing_train.csv', LF will be replaced by CRLF the next time Git touches it'). Выведите информацию по столбцам:
+Загрузите таблицу в переменную `df` по указанному пути ('Test_tasks_in_University_of_AI/pandas_training/task1/california_housing_train.csv'). Выведите информацию по столбцам:
 * Выведите последние 5 строк
 * Выведите размер таблицы
 * Выведите каждую 2 строку.
